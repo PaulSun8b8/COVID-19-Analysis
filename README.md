@@ -1,7 +1,7 @@
 # Project Proposal
 
 Team members:
-Paul Sun, Jeff Ye, Joy Zhang, Alaia Chen
+Huating Sun, Jeff Ye, Joy Zhang, Alaia Chen
 
 ### Domain of interest
 **Why are you interested in this field/domain?**  
